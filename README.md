@@ -43,10 +43,6 @@
 
 </div>
 
-<div align="center">
-
-</div>
-
 <br/>
 
 ## 🧠 Knowledge Graph
@@ -99,8 +95,8 @@ graph TD
 
 <div align="center">
 
-<img height="165" src="https://github-readme-stats.vercel.app/api?username=Krrish-Devani&show_icons=true&hide_border=true&bg_color=0D1117&title_color=00FFAA&icon_color=00FFAA&text_color=C9D1D9&ring_color=00FFAA"/>
-<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Krrish-Devani&layout=compact&hide_border=true&bg_color=0D1117&title_color=00FFAA&text_color=C9D1D9&langs_count=8"/>
+<img height="165" src="https://raw.githubusercontent.com/Krrish-Devani/Krrish-Devani/main/profile/stats.svg"/>
+<img height="165" src="https://raw.githubusercontent.com/Krrish-Devani/Krrish-Devani/main/profile/top-langs.svg"/>
 
 <img src="https://streak-stats.demolab.com?user=Krrish-Devani&hide_border=true&background=0D1117&stroke=00FFAA&ring=00FFAA&fire=00FFAA&currStreakLabel=00FFAA&sideLabels=C9D1D9&currStreakNum=C9D1D9&sideNums=C9D1D9&dates=8B949E" width="70%"/>
 
@@ -112,7 +108,7 @@ graph TD
 
 <div align="center">
 
-<img src="https://github-profile-trophy.vercel.app/?username=Krrish-Devani&theme=matrix&no-frame=true&margin-w=8&row=1&column=7" />
+<img src="https://raw.githubusercontent.com/Krrish-Devani/Krrish-Devani/main/trophy.svg" />
 
 </div>
 
