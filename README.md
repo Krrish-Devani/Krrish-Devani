@@ -104,16 +104,6 @@ graph TD
 
 <br/>
 
-### 🏅 Trophy Case
-
-<div align="center">
-
-<img src="https://raw.githubusercontent.com/Krrish-Devani/Krrish-Devani/main/trophy.svg" />
-
-</div>
-
-<br/>
-
 ### 🐍 Contribution Snake
 
 <div align="center">
